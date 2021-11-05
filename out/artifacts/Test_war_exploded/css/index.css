@@ -1,0 +1,108 @@
+.head{
+    height: 70px;
+    background-color: #164688;
+}
+.headOne{
+    float: left;
+    font-size: 20px;
+    color: white;
+    margin-left: 40px;
+}
+#demand{
+    height: 30px;
+    border-radius: 10px;
+}
+.headThree{
+    float: right;
+    margin-top: 7px;
+    margin-left: 1100px;
+    position: absolute;
+}
+.info{
+    float: left;
+}
+.manager{
+    float: right;
+    width: 250px;
+}
+#manager_one{
+    float: left;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+#manager_two{
+    margin-top: 12px;
+    margin-right:60px ;
+    float: right;
+}
+.quit{
+    position: absolute;
+    margin-top: 4px;
+    width: 120px;
+    margin-left: 140px;
+    font-size: 18px;
+    color: orangered;
+}
+.quit a:hover{
+    color: red;
+    text-decoration-line: underline;
+}
+.quit a{
+    color: black;
+    text-decoration:none
+}
+.body_one{
+    margin-top: 0;
+    float: left;
+    width: 300px;
+    height: 635px;
+    background-color: #446aa4;
+}
+.body_two{
+    width: 1501px;
+    height: 634px;
+    border-right: solid #7994bc;
+    border-bottom: solid #446aa4;
+}
+.body_head{
+    height: 40px;
+    background-color: #7994bc;
+}
+.home{
+    position: absolute;
+    height: 40px;
+    width: 50px;
+    margin-left: 301px;
+    border-radius: 4px;
+}
+.drop{
+    position: absolute;
+    padding-top: 14px;
+    margin-left: 1480px;
+}
+.operating{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+span{
+    font-size: 20px;
+}
+a{
+    color: white;
+    text-decoration:none
+}
+a:hover{
+    color: red;
+    text-decoration-line: underline;
+}
+.function1{
+    height: 50px;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 46px;
+    margin-left: 0;
+    color: white;
+    background-color: #284f95;
+    border-bottom-right-radius:50px;
+    border-bottom-left-radius:50px;
+}
